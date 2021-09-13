@@ -9,7 +9,7 @@ public abstract class AbstractGiveSurprises {
     private final IBag bag;
     private final int time;
 
-
+ 
     public AbstractGiveSurprises(String type, int time){
         this.bag    =   BagFactory.getInstance().makeBag(type);
         this.time   =   time;
