@@ -1,5 +1,5 @@
 package P2_Surprise_Sharing_Application.Surprises;
-
+ 
 import java.util.Random;
 
 public class Candies implements ISurprise{
