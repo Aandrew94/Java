@@ -1,7 +1,7 @@
 package P2_Surprise_Sharing_Application.Surprises;
 
 import java.util.Random;
-
+ 
 public final class GatherSurprises {
     private static  final Random    random  =   new Random();
     private GatherSurprises(){}
