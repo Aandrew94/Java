@@ -11,7 +11,7 @@ public class BagRandom implements IBag{
     public BagRandom(){
         this.surprises  =   new ArrayList<>();
     }
-
+ 
 
     @Override
     public void put(ISurprise newSurprise)  {   this.surprises.add(newSurprise);    }
