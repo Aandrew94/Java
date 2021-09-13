@@ -1,7 +1,7 @@
 package P2_Surprise_Sharing_Application.Bags;
 
 import P2_Surprise_Sharing_Application.Surprises.ISurprise;
-
+ 
 public interface IBag {
     // adds a surprise in the bag
     void put(ISurprise newSurprise);
