@@ -1,7 +1,7 @@
 package P2_Surprise_Sharing_Application.Surprises;
 
 import java.util.Random;
-
+ 
 public class FortuneCookie  implements ISurprise{
     private static  final   Random  RANDOM      =   new Random();
     private final   String  message;
