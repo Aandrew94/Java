@@ -14,7 +14,7 @@ public class MinionToy  implements ISurprise{
         }
         return minion;
     }
-
+ 
     @Override
     public void enjoy() {
         System.out.println("[!]\tYou got a minion named " + this.minionName + " ...");
