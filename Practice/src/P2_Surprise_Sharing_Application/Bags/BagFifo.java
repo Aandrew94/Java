@@ -8,7 +8,7 @@ public class BagFifo implements IBag{
 
     public BagFifo(){   this.surprises  =   new ArrayList<>();  }
 
-
+ 
     @Override
     public void put(ISurprise newSurprise)  {   this.surprises.add(newSurprise);    }
 
