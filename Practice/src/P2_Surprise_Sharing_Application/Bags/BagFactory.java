@@ -4,7 +4,7 @@ public class BagFactory implements IbagFactory{
     private static final    BagFactory  INSTANCE =   new BagFactory();
 
     private BagFactory(){}
-
+ 
     public  static  BagFactory  getInstance(){
         return  INSTANCE;
     }
