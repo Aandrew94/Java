@@ -1,5 +1,5 @@
 package C18_HomeWork_LeetCode;
-
+  
 public class LeetCode_BinarySearch_E {
     public static void main(String[] args){
         int[] nums = {-1,0,3,5,9,12};
